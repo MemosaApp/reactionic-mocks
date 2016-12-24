@@ -1,7 +1,7 @@
 {
-  "name": "project-name",
+  "name": "reactionic-mocks",
   "version": "1.0.0",
-  "description": "project-description",
+  "description": "Reactionic mocks for quickly testing your components under different contexts.",
   "main": "dist/index.js",
   "scripts": {
     "clean": "rm -rf ./dist",
@@ -14,7 +14,7 @@
     "lint": "gulp lint"
   },
   "repository": {
-    "url": "git+https://github.com/MemosaApp/package-template.git",
+    "url": "git+https://github.com/MemosaApp/reactionic-mocks.git",
     "type": "git"
   },
   "keywords": [
@@ -23,9 +23,9 @@
   "author": "Ivan Montiel <idmontie@gmail.com> (https://github.com/idmontie)",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/MemosaApp/package-template/issues"
+    "url": "https://github.com/MemosaApp/reactionic-mocks/issues"
   },
-  "homepage": "https://github.com/MemosaApp/package-template#readme",
+  "homepage": "https://github.com/MemosaApp/reactionic-mocks#readme",
   "devDependencies": {
     "babel-cli": "^6.18.0",
     "babel-core": "^6.21.0",
