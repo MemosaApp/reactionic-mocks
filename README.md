@@ -1,6 +1,6 @@
 # Reactionic Mocks
 
-Badges
+[![CircleCI](https://circleci.com/gh/MemosaApp/reactionic-modal.svg?style=svg)](https://circleci.com/gh/MemosaApp/reactionic-modal)
 
 Reactionic mocks for quickly testing your components under different contexts.
 
