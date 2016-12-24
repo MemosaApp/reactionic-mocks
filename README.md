@@ -7,7 +7,7 @@ Reactionic mocks for quickly testing your components under different contexts.
 ## Installing
 
 ```
-yarn add reactionic-mocks
+yarn add --dev reactionic-mocks
 ```
 
 ## Usage
