@@ -9,7 +9,6 @@ class Mock extends React.Component {
   }
 
   render() {
-    console.log(this.context.ionPlatform);
     return <div>{this.context.ionPlatform.test}</div>;
   }
 }
